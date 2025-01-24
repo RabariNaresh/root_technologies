@@ -7,12 +7,12 @@ An e-commerce mobile app to showcase products from multiple brands with a user-f
 
 Landing Page Components:
 
-1>  Header:
+1 =>  Header:
 App name in bold, center-aligned.
 Minimal design without navigation or search bar.
 
 
- 2>  Shop by Category:
+ 2 =>  Shop by Category:
 Section heading: "Shop by Category".
 Grid layout with cards for each category:
 Category Name (prominent).
@@ -21,7 +21,7 @@ Brief Description (1-2 sentences).
 Tap a card to navigate to the category-specific product page.
 
 
-3>  Brand Carousel:
+3 =>  Brand Carousel:
 Horizontally scrollable.
 API-driven data: Brand Name + Featured Image.
 Tap a brand to navigate to its product page.
